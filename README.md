@@ -1,1 +1,1 @@
-d116ffe530b703a0fb40e1fbbef86b5da9c26093
+[![Unit Tests](https://github.com/worldcoin/world-id-contracts/actions/workflows/tests.yml/badge.svg)](https://github.com/worldcoin/world-id-contracts/actions/workflows/tests.yml)
